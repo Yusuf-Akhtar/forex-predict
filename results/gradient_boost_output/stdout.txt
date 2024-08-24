@@ -1,0 +1,261 @@
+TRAIN RMSE:
+[1]	train-rmse:0.186961 
+[2]	train-rmse:0.177645 
+[3]	train-rmse:0.168790 
+[4]	train-rmse:0.160379 
+[5]	train-rmse:0.152382 
+[6]	train-rmse:0.144789 
+[7]	train-rmse:0.137569 
+[8]	train-rmse:0.130711 
+[9]	train-rmse:0.124194 
+[10]	train-rmse:0.118002 
+[11]	train-rmse:0.112124 
+[12]	train-rmse:0.106543 
+[13]	train-rmse:0.101230 
+[14]	train-rmse:0.096188 
+[15]	train-rmse:0.091396 
+[16]	train-rmse:0.086842 
+[17]	train-rmse:0.082513 
+[18]	train-rmse:0.078408 
+[19]	train-rmse:0.074502 
+[20]	train-rmse:0.070790 
+[21]	train-rmse:0.067266 
+[22]	train-rmse:0.063919 
+[23]	train-rmse:0.060741 
+[24]	train-rmse:0.057724 
+[25]	train-rmse:0.054857 
+[26]	train-rmse:0.052138 
+[27]	train-rmse:0.049550 
+[28]	train-rmse:0.047091 
+[29]	train-rmse:0.044750 
+[30]	train-rmse:0.042531 
+[31]	train-rmse:0.040421 
+[32]	train-rmse:0.038416 
+[33]	train-rmse:0.036510 
+[34]	train-rmse:0.034701 
+[35]	train-rmse:0.032981 
+[36]	train-rmse:0.031345 
+[37]	train-rmse:0.029794 
+[38]	train-rmse:0.028316 
+[39]	train-rmse:0.026912 
+[40]	train-rmse:0.025579 
+[41]	train-rmse:0.024315 
+[42]	train-rmse:0.023113 
+[43]	train-rmse:0.021970 
+[44]	train-rmse:0.020885 
+[45]	train-rmse:0.019853 
+[46]	train-rmse:0.018874 
+[47]	train-rmse:0.017942 
+[48]	train-rmse:0.017056 
+[49]	train-rmse:0.016216 
+[50]	train-rmse:0.015415 
+[51]	train-rmse:0.014656 
+[52]	train-rmse:0.013934 
+[53]	train-rmse:0.013248 
+[54]	train-rmse:0.012596 
+[55]	train-rmse:0.011978 
+[56]	train-rmse:0.011390 
+[57]	train-rmse:0.010832 
+[58]	train-rmse:0.010300 
+[59]	train-rmse:0.009795 
+[60]	train-rmse:0.009313 
+[61]	train-rmse:0.008856 
+[62]	train-rmse:0.008422 
+[63]	train-rmse:0.008009 
+[64]	train-rmse:0.007618 
+[65]	train-rmse:0.007246 
+[66]	train-rmse:0.006891 
+[67]	train-rmse:0.006556 
+[68]	train-rmse:0.006236 
+[69]	train-rmse:0.005931 
+[70]	train-rmse:0.005642 
+[71]	train-rmse:0.005369 
+[72]	train-rmse:0.005107 
+[73]	train-rmse:0.004859 
+[74]	train-rmse:0.004623 
+[75]	train-rmse:0.004398 
+[76]	train-rmse:0.004185 
+[77]	train-rmse:0.003981 
+[78]	train-rmse:0.003790 
+[79]	train-rmse:0.003607 
+[80]	train-rmse:0.003434 
+[81]	train-rmse:0.003269 
+[82]	train-rmse:0.003114 
+[83]	train-rmse:0.002966 
+[84]	train-rmse:0.002826 
+[85]	train-rmse:0.002693 
+[86]	train-rmse:0.002566 
+[87]	train-rmse:0.002445 
+[88]	train-rmse:0.002330 
+[89]	train-rmse:0.002221 
+[90]	train-rmse:0.002119 
+[91]	train-rmse:0.002022 
+[92]	train-rmse:0.001928 
+[93]	train-rmse:0.001840 
+[94]	train-rmse:0.001757 
+[95]	train-rmse:0.001678 
+[96]	train-rmse:0.001602 
+[97]	train-rmse:0.001532 
+[98]	train-rmse:0.001465 
+[99]	train-rmse:0.001400 
+[100]	train-rmse:0.001337 
+[101]	train-rmse:0.001281 
+[102]	train-rmse:0.001226 
+[103]	train-rmse:0.001176 
+[104]	train-rmse:0.001129 
+[105]	train-rmse:0.001083 
+[106]	train-rmse:0.001040 
+[107]	train-rmse:0.000997 
+[108]	train-rmse:0.000959 
+[109]	train-rmse:0.000921 
+[110]	train-rmse:0.000887 
+[111]	train-rmse:0.000856 
+[112]	train-rmse:0.000827 
+[113]	train-rmse:0.000800 
+[114]	train-rmse:0.000774 
+[115]	train-rmse:0.000747 
+[116]	train-rmse:0.000724 
+[117]	train-rmse:0.000702 
+[118]	train-rmse:0.000682 
+[119]	train-rmse:0.000662 
+[120]	train-rmse:0.000644 
+[121]	train-rmse:0.000627 
+[122]	train-rmse:0.000612 
+[123]	train-rmse:0.000598 
+[124]	train-rmse:0.000583 
+[125]	train-rmse:0.000570 
+[126]	train-rmse:0.000560 
+[127]	train-rmse:0.000549 
+[128]	train-rmse:0.000538 
+[129]	train-rmse:0.000527 
+[130]	train-rmse:0.000517 
+[131]	train-rmse:0.000510 
+[132]	train-rmse:0.000503 
+[133]	train-rmse:0.000497 
+[134]	train-rmse:0.000490 
+[135]	train-rmse:0.000483 
+[136]	train-rmse:0.000478 
+[137]	train-rmse:0.000473 
+[138]	train-rmse:0.000468 
+[139]	train-rmse:0.000465 
+[140]	train-rmse:0.000462 
+[141]	train-rmse:0.000459 
+[142]	train-rmse:0.000455 
+[143]	train-rmse:0.000453 
+[144]	train-rmse:0.000450 
+[145]	train-rmse:0.000448 
+[146]	train-rmse:0.000446 
+[147]	train-rmse:0.000444 
+[148]	train-rmse:0.000442 
+[149]	train-rmse:0.000439 
+[150]	train-rmse:0.000436 
+[151]	train-rmse:0.000434 
+[152]	train-rmse:0.000433 
+[153]	train-rmse:0.000430 
+[154]	train-rmse:0.000427 
+[155]	train-rmse:0.000426 
+[156]	train-rmse:0.000425 
+[157]	train-rmse:0.000424 
+[158]	train-rmse:0.000424 
+[159]	train-rmse:0.000422 
+[160]	train-rmse:0.000422 
+[161]	train-rmse:0.000421 
+[162]	train-rmse:0.000421 
+[163]	train-rmse:0.000419 
+[164]	train-rmse:0.000418 
+[165]	train-rmse:0.000416 
+[166]	train-rmse:0.000416 
+[167]	train-rmse:0.000416 
+[168]	train-rmse:0.000416 
+[169]	train-rmse:0.000414 
+[170]	train-rmse:0.000413 
+[171]	train-rmse:0.000411 
+[172]	train-rmse:0.000411 
+[173]	train-rmse:0.000410 
+[174]	train-rmse:0.000409 
+[175]	train-rmse:0.000408 
+[176]	train-rmse:0.000407 
+[177]	train-rmse:0.000406 
+[178]	train-rmse:0.000405 
+[179]	train-rmse:0.000404 
+[180]	train-rmse:0.000404 
+[181]	train-rmse:0.000403 
+[182]	train-rmse:0.000403 
+[183]	train-rmse:0.000403 
+[184]	train-rmse:0.000402 
+[185]	train-rmse:0.000401 
+[186]	train-rmse:0.000401 
+[187]	train-rmse:0.000401 
+[188]	train-rmse:0.000401 
+[189]	train-rmse:0.000401 
+[190]	train-rmse:0.000401 
+[191]	train-rmse:0.000400 
+[192]	train-rmse:0.000400 
+[193]	train-rmse:0.000400 
+[194]	train-rmse:0.000400 
+[195]	train-rmse:0.000400 
+[196]	train-rmse:0.000400 
+[197]	train-rmse:0.000400 
+[198]	train-rmse:0.000400 
+[199]	train-rmse:0.000400 
+[200]	train-rmse:0.000400 
+[201]	train-rmse:0.000400 
+[202]	train-rmse:0.000400 
+[203]	train-rmse:0.000400 
+[204]	train-rmse:0.000400 
+[205]	train-rmse:0.000400 
+[206]	train-rmse:0.000398 
+[207]	train-rmse:0.000398 
+[208]	train-rmse:0.000398 
+[209]	train-rmse:0.000398 
+[210]	train-rmse:0.000398 
+[211]	train-rmse:0.000397 
+[212]	train-rmse:0.000397 
+[213]	train-rmse:0.000396 
+[214]	train-rmse:0.000396 
+[215]	train-rmse:0.000396 
+[216]	train-rmse:0.000396 
+[217]	train-rmse:0.000395 
+[218]	train-rmse:0.000395 
+[219]	train-rmse:0.000395 
+[220]	train-rmse:0.000395 
+[221]	train-rmse:0.000395 
+[222]	train-rmse:0.000395 
+[223]	train-rmse:0.000395 
+[224]	train-rmse:0.000395 
+
+
+XBG_FITTING SUMMARY
+               Length Class              Mode       
+handle              1 xgb.Booster.handle externalptr
+raw            181872 -none-             raw        
+niter               1 -none-             numeric    
+evaluation_log      2 data.table         list       
+call               13 -none-             call       
+params              7 -none-             list       
+callbacks           2 -none-             list       
+feature_names       5 -none-             character  
+nfeatures           1 -none-             numeric   
+
+
+TEST PREDICTIONS 
+ [1] 0.3071379 0.3074847 0.3078817 0.3086422 0.3085045 0.3090191 0.3090191
+ [8] 0.3090191 0.3092026 0.3092703 0.3090867 0.3090191 0.3087771 0.3087771
+[15] 0.3085045 0.3085045 0.3090191 0.3085045 0.3081741 0.3077916 0.3075705
+[22] 0.3071465 0.3072081 0.3072824 0.3072391 0.3073159 0.3076667 0.3076442
+[29] 0.3077136 0.3071884 0.3070456 0.3073027 0.3071745 0.3071877 0.3071597
+[36] 0.3076667 0.3075290 0.3074291 0.3073939 0.3071465 0.3067924 0.3063235
+[43] 0.3065800 0.3066155 0.3066278 0.3061030 0.3058968 0.3058747 0.3057605
+[50] 0.3056517 0.3054588 0.3051771 0.3054170
+RMSE on the test set: 0.0003445473 
+
+
+FUTURE PREDICTIONS
+ [1] 0.3054170 0.3053533 0.3056321 0.3052337 0.3052337 0.3052337 0.3052754
+ [8] 0.3054455 0.3052337 0.3052337 0.3052337 0.3052337 0.3052337 0.3052337
+[15] 0.3052337 0.3052337 0.3052337 0.3052337 0.3052337 0.3052337 0.3052337
+[22] 0.3052337 0.3052337 0.3052337 0.3052337 0.3052337 0.3052337 0.3052337
+[29] 0.3052337 0.3052337 0.3052337 0.3052337 0.3052337 0.3052337 0.3052337
+[36] 0.3052337 0.3052337 0.3052337 0.3052337 0.3052337 0.3052337 0.3052337
+[43] 0.3052337 0.3052337 0.3052337 0.3052337 0.3052337 0.3052337 0.3052337
+[50] 0.3052337 0.3052337 0.3052337
