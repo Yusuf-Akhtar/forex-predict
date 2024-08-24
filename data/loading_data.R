@@ -9,10 +9,10 @@ library(alphavantager)
 # pick one of the two keys below depending on how many requests are/
 # available on each key
 
-api_key1 <- "IXHQGHD3T6K5XFTR" #utd email
+api_key1 <- "________________"
 av_api_key(api_key1)
 
-#api_key2 <- "HZNJFT9PWBE0WAJZ" #personal email
+#api_key2 <- "________________"
 #av_api_key(api_key2)
 
 
